@@ -37,3 +37,7 @@ The full ladder, in order:
 When in doubt, escalate early rather than late. The current contact roster is
 maintained in `RUNBOOK.md`, and the detailed escalation procedure in
 `docs/runbook.md` (issue #4 tracks filling in the full ladder).
+
+## Emergency escalation
+
+Emergency escalation: page the on-call lead.
